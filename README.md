@@ -1,5 +1,3 @@
-# pose_estimation
-
 # yolov7-pose-estimation
 
 A Human Pose Skeleton represents the orientation of a person in a graphical format. Essentially, it is a set of coordinates that can be connected to describe the pose of the person. Each co-ordinate in the skeleton is known as a part (or a joint, or a keypoint).
